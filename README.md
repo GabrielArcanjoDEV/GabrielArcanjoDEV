@@ -41,7 +41,8 @@ Modelagem completa de banco de dados com:
   <li>📌 15 consultas SQL</li>
 </ul>
 
-<a href="./banco-dados/PROJETO BANCO DE DADOS 1.docx">
+<a href="Banco-de-dados-da-empresa-testil
+">
 📄 Ver documentação completa
 </a>
 
