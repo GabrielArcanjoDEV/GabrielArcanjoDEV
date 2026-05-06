@@ -29,7 +29,7 @@
 ## 💜 Desenvolvedor FullStack
 
 <p style="font-size: 14px;">
-Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de Esperança, Paraíba. Concluí o ensino médio na ECIT Monsenhor José da Silva Coutinho, com formação técnica em Contabilidade, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB, buscando aprimorar meus conhecimentos na área de tecnologia. Sou apaixonado por programação e estou constantemente aprendendo novas linguagens, ferramentas e conceitos, com interesse em desenvolvimento de sistemas Tenho facilidade para aprender, gosto de desafios e estou sempre em busca de crescimento pessoal e profissional.
+Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de Esperança, Paraíba. Concluí o ensino médio na ECIT Monsenhor José da Silva Coutinho, com formação técnica em Contabilidade, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB, buscando aprimorar meus conhecimentos na área de tecnologia, atualmente estou a procura de oportunidades de vagas de estagio na aréa da tecnologia.Sou apaixonado por programação e estou constantemente aprendendo novas linguagens, ferramentas e conceitos, com interesse em desenvolvimento de sistemas Tenho facilidade para aprender, gosto de desafios e estou sempre em busca de crescimento pessoal e profissional.
 </p>
 
 ---
