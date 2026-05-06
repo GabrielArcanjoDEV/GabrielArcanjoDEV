@@ -37,12 +37,12 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 # 🚀 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
 </p>
 
 ---
@@ -52,17 +52,23 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 <div align="center">
 
   <a href="https://github.com/GabrielArcanjoDEV/Automa-o-com-pyton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Automa-o-com-pyton&theme=tokyonight&show_owner=false" />
+    <img src="https://img.shields.io/badge/AUTOMAÇÃO_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
   </a>
-
+  &nbsp;
   <a href="https://github.com/GabrielArcanjoDEV/Jogo-Pacman">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Jogo-Pacman&theme=tokyonight&show_owner=false" />
+    <img src="https://img.shields.io/badge/JOGO_PACMAN-F7DF1E?style=for-the-badge&logo=ghost&logoColor=black" height="40">
   </a>
-
+  &nbsp;
   <a href="https://github.com/GabrielArcanjoDEV/Banco-de-dados-da-empresa-testil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Banco-de-dados-da-empresa-testil&theme=tokyonight&show_owner=false" />
+    <img src="https://img.shields.io/badge/BANCO_DE_DADOS_TEXTIL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40">
   </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <p><i>Clique nos botões acima para visitar os repositórios</i></p>
 </div>
 
 ---
