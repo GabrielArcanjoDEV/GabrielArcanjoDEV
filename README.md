@@ -8,33 +8,19 @@
 
 <p align="center">
   <a href="https://github.com/GabrielArcanjoDEV?tab=followers">
-    <img 
-      alt="followers" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/GabrielArcanjoDEV?color=7c3aed&labelColor=5b21b6&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
+    <img src="https://img.shields.io/github/followers/GabrielArcanjoDEV?label=Seguidores&style=for-the-badge&logo=github&color=7c3aed&labelColor=5b21b6" alt="Seguidores">
   </a>
-
   <a href="https://github.com/GabrielArcanjoDEV">
-    <img 
-      alt="stars" 
-      title="Total de estrelas" 
-      src="https://custom-icon-badges.demolab.com/github/stars/GabrielArcanjoDEV?color=9333ea&style=for-the-badge&labelColor=6b21a8&logo=star&label=Estrelas"
-    />
+    <img src="https://img.shields.io/github/stars/GabrielArcanjoDEV?label=Estrelas&style=for-the-badge&logo=reverbnation&logoColor=white&color=9333ea&labelColor=6b21a8" alt="Estrelas">
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:gab1655830@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-gab1655830%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Gmail-gab1655830%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://instagram.com/gabriel29arcanjo">
-    <img 
-      src="https://img.shields.io/badge/@gabriel29arcanjo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/@gabriel29arcanjo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -51,69 +37,31 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 # 🚀 Linguagens e Tecnologias
 
 <p align="left">
-<img 
-    alt="HTML"
-    title="HTML" 
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    alt="CSS"
-    title="CSS" 
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    alt="Java"
-    title="Java" 
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
-
-<img 
-    alt="Python"
-    title="Python" 
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-
-<img 
-    alt="MySQL"
-    title="MySQL" 
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
 </p>
+
+---
+
 # 📂 Projetos
 
 <div align="center">
 
-<a href="https://github.com/GabrielArcanjoDEV/Automa-o-com-pyton">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Automa-o-com-pyton&theme=tokyonight" 
-  />
-</a>
+  <a href="https://github.com/GabrielArcanjoDEV/Automa-o-com-pyton">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Automa-o-com-pyton&theme=tokyonight&show_owner=false" />
+  </a>
 
-<a href="https://github.com/GabrielArcanjoDEV/Banco-de-dados-da-empresa-testil">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Banco-de-dados-da-empresa-testil&theme=tokyonight" 
-  />
-</a>
+  <a href="https://github.com/GabrielArcanjoDEV/Jogo-Pacman">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Jogo-Pacman&theme=tokyonight&show_owner=false" />
+  </a>
 
-<a href="https://github.com/GabrielArcanjoDEV/Jogo-Pacman">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Jogo-Pacman&theme=tokyonight" 
-  />
-</a>
+  <a href="https://github.com/GabrielArcanjoDEV/Banco-de-dados-da-empresa-testil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielArcanjoDEV&repo=Banco-de-dados-da-empresa-testil&theme=tokyonight&show_owner=false" />
+  </a>
 
 </div>
 
@@ -122,10 +70,7 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 # 📈 Atividade
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
-```
