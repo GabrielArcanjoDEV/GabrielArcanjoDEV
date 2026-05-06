@@ -40,12 +40,6 @@ Modelagem completa de banco de dados com:
   <li>📌 Script SQL (CREATE TABLE)</li>
   <li>📌 15 consultas SQL</li>
 </ul>
-
-<a href="Banco-de-dados-da-empresa-testil
-">
-📄 Ver documentação completa
-</a>
-
 </div>
 
 ---
