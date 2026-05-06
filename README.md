@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de Esperança, Paraíba. Concluí o ensino médio na ECIT Monsenhor José da Silva Coutinho, com formação técnica em Contabilidade, onde desenvolvi habilidades em organização, análise de dados e responsabilidade profissional. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB, buscando aprimorar meus conhecimentos na área de tecnologia. Sou apaixonado por programação e estou constantemente aprendendo novas linguagens, ferramentas e conceitos, com interesse em desenvolvimento de sistemas, sites e soluções digitais. Tenho facilidade para aprender, gosto de desafios e estou sempre em busca de crescimento pessoal e profissional.
+Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de Esperança, Paraíba. Concluí o ensino médio na ECIT Monsenhor José da Silva Coutinho, com formação técnica em Contabilidade, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB, buscando aprimorar meus conhecimentos na área de tecnologia. Sou apaixonado por programação e estou constantemente aprendendo novas linguagens, ferramentas e conceitos, com interesse em desenvolvimento de sistemas Tenho facilidade para aprender, gosto de desafios e estou sempre em busca de crescimento pessoal e profissional.
 ---
 
 ### 📂 Projetos
@@ -11,8 +11,8 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 <h3>🎮 Pac-Man (HTML, CSS, JavaScript)</h3>
 
-<img src="images/pacman-tela.png" width="400"/>
-<img src="images/pacman-mapa.png" width="400"/>
+<img src="C:\Users\Gabriel Arcanjo\Desktop\pacmem\tela inicial pacman.png" width="400"/>
+<img src="C:\Users\Gabriel Arcanjo\Desktop\pacmem\jogo pacman.png" width="400"/>
 
 <p>
 Jogo clássico do Pac-Man desenvolvido do zero, com movimentação, colisões, IA básica dos fantasmas e sistema de pontuação.
