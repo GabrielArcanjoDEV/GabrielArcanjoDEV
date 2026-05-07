@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GabrielArcanjoDEV?tab=followers">
-    <img src="https://img.shields.io/github/followers/GabrielArcanjoDEV?label=Seguidores&style=for-the-badge&logo=github&color=7c3aed&labelColor=5b21b6" alt="Seguidores">
-  </a>
+ <a href="https://github.com/GabrielArcanjoDEV?tab=followers">
+  <img src="https://img.shields.io/github/followers/GabrielArcanjoDEV?label=Seguidores&style=for-the-badge&logo=github&color=7c3aed" alt="Seguidores">
+</a>
   <a href="https://github.com/GabrielArcanjoDEV">
     <img src="https://img.shields.io/badge/dynamic/json?color=9333ea&label=Estrelas&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGabrielArcanjoDEV&style=for-the-badge&logo=reverbnation&logoColor=white&labelColor=6b21a8" alt="Total de Estrelas">
   </a>
