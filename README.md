@@ -26,28 +26,26 @@
 
 ---
 
-## 💜 Desenvolvedor FullStack
+## 💜 Sobre mim
 
 <p style="font-size: 14px;">
-Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de Esperança, Paraíba. Concluí o ensino médio na ECIT Monsenhor José da Silva Coutinho, com formação técnica em Contabilidade, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB, buscando aprimorar meus conhecimentos na área de tecnologia, atualmente estou a procura de oportunidades de vagas de estagio na aréa da tecnologia. Sou apaixonado por programação e estou constantemente aprendendo novas linguagens, ferramentas e conceitos, com interesse em desenvolvimento de sistemas Tenho facilidade para aprender, gosto de desafios e estou sempre em busca de crescimento pessoal e profissional.
+Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de Esperança, Paraíba. Concluí o ensino médio na ECIT Monsenhor José da Silva Coutinho, com formação técnica em Contabilidade. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB, buscando aprimorar meus conhecimentos na área de tecnologia. Atualmente estou a procura de oportunidades de vagas de estagio na área da tecnologia. Sou apaixonado por programação e estou constantemente aprendendo novas linguagens, ferramentas e conceitos, com interesse em desenvolvimento de sistemas. Tenho facilidade para aprender, gosto de desafios e estou sempre em busca de crescimento pessoal e profissional.
 </p>
 
 ---
 
 # 🚀 Linguagens e Tecnologias
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 ---
 
@@ -80,5 +78,3 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true" />
 </p>
-
----
