@@ -50,15 +50,19 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 <div align="center">
   <a href="https://github.com/GabrielArcanjoDEV/Automa-o-com-pyton">
-    <img src="https://img.shields.io/badge/AUTOMAÇÃO_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/AUTOMAÇÃO_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35">
+  </a>
+  &nbsp;
+  <a href="https://github.com/GabrielArcanjoDEV/Jogo-2D-poo-2026">
+    <img src="https://img.shields.io/badge/JOGO_2D_JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35">
   </a>
   &nbsp;
   <a href="https://github.com/GabrielArcanjoDEV/Jogo-Pacman">
-    <img src="https://img.shields.io/badge/JOGO_PACMAN-F7DF1E?style=for-the-badge&logo=ghost&logoColor=black" height="40">
+    <img src="https://img.shields.io/badge/JOGO_PACMAN-F7DF1E?style=for-the-badge&logo=ghost&logoColor=black" height="35">
   </a>
   &nbsp;
   <a href="https://github.com/GabrielArcanjoDEV/Banco-de-dados-da-empresa-testil">
-    <img src="https://img.shields.io/badge/BANCO_DE_DADOS_TEXTIL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/BANCO_DE_DADOS_TEXTIL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35">
   </a>
 </div>
 
