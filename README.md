@@ -22,6 +22,9 @@
   <a href="https://instagram.com/gabriel29arcanjo">
     <img src="https://img.shields.io/badge/@gabriel29arcanjo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/gabriel-arcanjo-662508417">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Arcanjo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -29,7 +32,7 @@
 ## 💜 Sobre mim
 
 <p style="font-size: 14px;">
-Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de Esperança, Paraíba. Concluí o ensino médio na ECIT Monsenhor José da Silva Coutinho, com formação técnica em Contabilidade. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB, buscando aprimorar meus conhecimentos na área de tecnologia. Atualmente estou a procura de oportunidades de vagas de estagio na área da tecnologia. Sou apaixonado por programação e estou constantemente aprendendo novas linguagens, ferramentas e conceitos, com interesse em desenvolvimento de sistemas. Tenho facilidade para aprender, gosto de desafios e estou sempre em busca de crescimento pessoal e profissional.
+Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de Esperança, Paraíba. Concluiu o ensino médio na ECIT Monsenhor José da Silva Coutinho, com formação técnica em Contabilidade. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB, buscando aprimorar meus conhecimentos na área de tecnologia. Atualmente estou a procura de oportunidades de vagas de estagio na área da tecnologia. Sou apaixonado por programação e estou constantemente aprendendo novas linguagens, ferramentas e conceitos, com interesse em desenvolvimento de sistemas. Tenho facilidade para aprender, gosto de desafios e estou sempre em busca de crescimento pessoal e profissional.
 </p>
 
 ---
@@ -45,6 +48,9 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" style="filter: invert(100%);" />
+</div>
+
+---
 
 # 📂 Projetos
 
@@ -80,10 +86,8 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true" />
 </p>
 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
