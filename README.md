@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desenvolvedor+FullStack;Estudante+de+ADS;Apaixonado+por+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+evolução;Estudante+de+ADS;Apaixonado+por+Tecnologia;A+procura+de+estagio!" />
 </p>
 
 <p align="center">
