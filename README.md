@@ -82,18 +82,62 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 ---
 
-# 📊 Estatísticas e Atividade
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+# 📊 Atividade e Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
-</p>
+<div align="center">
 
-## 📈 Gráfico de Atividade
+  <img
+    src="./profile/stats.svg"
+    alt="Estatísticas do GitHub"
+    height="180"
+  />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true" width="100%" alt="Gráfico de atividade do GitHub" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Linguagens mais utilizadas"
+    height="180"
+  />
+
+</div>
+
+<br>
+
+## 📈 Contribuições
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
+    width="100%"
+    alt="Gráfico de atividade do GitHub"
+  />
+
+</div>
+
+<br>
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+
+  </picture>
+
+</div>
