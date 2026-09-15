@@ -104,40 +104,23 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 <br>
 
-## 📈 Contribuições
 
-<div align="center">
+# 📈 Atividade
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
-    width="100%"
-    alt="Gráfico de atividade do GitHub"
-  />
 
-</div>
+<p align="center">
 
-<br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true" />
 
-## 🐍 Minhas Contribuições
+</p>
 
-<div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake-dark.svg"
-    />
+<picture align="center">
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake.svg"
-    />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
 
-    <img
-      src="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
 
-  </picture>
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 
-</div>
+</picture> 
