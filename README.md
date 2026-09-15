@@ -86,29 +86,31 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 <tr>
 
 <td width="60%" valign="top">
-<h2>📊 Estatísticas</h2>
+## 📊 Estatísticas
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="60%" align="center">
+<td width="50%" align="center">
 
-<h3>Estatísticas do GitHub</h3>
+### 📊 Estatísticas do GitHub
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&ring_color=58a6ff&include_all_commits=true&count_private=true"
-  width="100%"
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  height="180"
 />
 
 </td>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
 
-<h3>💻 Tecnologias</h3>
+### 💻 Tecnologias
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&hide_border=true&bg_color=1a1b26&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
-  width="100%"
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
 />
 
 </td>
@@ -116,6 +118,7 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 </tr>
 </table>
 
+</div>
 <picture align="center">
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-contribution-grid-snake-dark.svg">
