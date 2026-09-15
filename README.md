@@ -80,12 +80,8 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
   <p><i>Clique nos botões acima para visitar os repositórios</i></p>
 </div>
 
-<h2>📊 Estatísticas</h2>
-
-<table>
-<tr>
-
 <td width="60%" valign="top">
+  
 ## 📊 Estatísticas
 
 <div align="center">
