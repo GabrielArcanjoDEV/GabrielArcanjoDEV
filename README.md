@@ -82,13 +82,13 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 ### 📊 Estatísticas e Commits
 
-| 📈 Visão Geral | 🏆 Totais e Progresso |
+| Visão Geral | Totais e Progresso |
 | :---: | :---: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true)](https://github.com/GabrielArcanjoDEV) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true)](https://github.com/GabrielArcanjoDEV) |
+| <img src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="100%" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true" width="100%" /> |
 
-| 💻 Linguagens Mais Usadas | 📅 Resumo Geral |
+| Linguagens Mais Usadas | Resumo Geral |
 | :---: | :--- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyo-night&hide_border=true)](https://github.com/GabrielArcanjoDEV) | • **Total de Commits:** Exibidos nos cards acima <br>• **Datas e Frequência:** Atualizado em tempo real pelo GitHub <br>• **Tema:** Tokyo Night 🌙 |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyo-night&hide_border=true" width="100%" /> | • **Total de Commits:** 149 contribuições<br>• **Período:** Desde Dez de 2025<br>• **Tema:** Tokyo Night 🌙 |
 
 <picture align="center">
 
