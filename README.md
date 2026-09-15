@@ -83,13 +83,14 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 ---
 
 ---
+---
 
-# 📊 Atividade e Estatísticas
+# 📊 Estatísticas e Atividade
 
 <div align="center">
 
   <img
-    src="./profile/stats.svg"
+    src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="Estatísticas do GitHub"
     height="180"
   />
@@ -104,41 +105,12 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 <br>
 
-## 📈 Contribuições
+## 📈 Gráfico de Atividade
 
-<div align="center">
-
+<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true"
     width="100%"
     alt="Gráfico de atividade do GitHub"
   />
-
-</div>
-
-<br>
-
-## 🐍 Minhas Contribuições
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-
-  </picture>
-
-</div>
-
+</p>
