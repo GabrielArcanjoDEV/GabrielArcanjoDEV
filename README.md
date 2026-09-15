@@ -84,12 +84,10 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 # 📈 Atividade
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
+# 📈 Atividade
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true" width="100%" />
 </p>
 
 <picture align="center">
