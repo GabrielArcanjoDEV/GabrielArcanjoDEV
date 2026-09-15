@@ -82,17 +82,46 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 ---
 
-# 📈 Atividade
+# 📈 Atividade e Commits
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true" width="100%" alt="Gráfico de Atividade do GitHub" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+  <!-- Gráfico de atividade -->
+
+<img 
+ src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true" 
+ width="100%" 
+ alt="Gráfico de atividade do GitHub"
+/>
+
+<br><br>
+
+  <!-- Estatísticas -->
+
+<img 
+ src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+ height="180"
+ alt="Estatísticas do GitHub"
+/>
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+ height="180"
+ alt="Linguagens mais utilizadas"
+/>
+
+</div>
+
+---
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+<img 
+ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+ alt="Animação das contribuições do GitHub"
+/>
+
+</div>
+
