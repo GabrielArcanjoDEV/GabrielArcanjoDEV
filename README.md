@@ -82,46 +82,63 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 
 ---
 
-# 📈 Atividade e Commits
+---
+
+# 📊 Atividade e Estatísticas
 
 <div align="center">
 
-  <!-- Gráfico de atividade -->
+  <img
+    src="./profile/stats.svg"
+    alt="Estatísticas do GitHub"
+    height="180"
+  />
 
-<img 
- src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true" 
- width="100%" 
- alt="Gráfico de atividade do GitHub"
-/>
-
-<br><br>
-
-  <!-- Estatísticas -->
-
-<img 
- src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
- height="180"
- alt="Estatísticas do GitHub"
-/>
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
- height="180"
- alt="Linguagens mais utilizadas"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Linguagens mais utilizadas"
+    height="180"
+  />
 
 </div>
 
----
+<br>
+
+## 📈 Contribuições
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
+    width="100%"
+    alt="Gráfico de atividade do GitHub"
+  />
+
+</div>
+
+<br>
 
 ## 🐍 Minhas Contribuições
 
 <div align="center">
 
-<img 
- src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
- alt="Animação das contribuições do GitHub"
-/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+
+  </picture>
 
 </div>
 
