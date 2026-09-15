@@ -80,16 +80,22 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
   <p><i>Clique nos botões acima para visitar os repositórios</i></p>
 </div>
 
-| 📈 Atividade do GitHub |
-| :---: |
-| [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true)](https://github.com/GabrielArcanjoDEV) |
+### 📊 Estatísticas e Commits
+
+| 📈 Visão Geral | 🏆 Totais e Progresso |
+| :---: | :---: |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true)](https://github.com/GabrielArcanjoDEV) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielArcanjoDEV&theme=tokyo-night&hide_border=true)](https://github.com/GabrielArcanjoDEV) |
+
+| 💻 Linguagens Mais Usadas | 📅 Resumo Geral |
+| :---: | :--- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyo-night&hide_border=true)](https://github.com/GabrielArcanjoDEV) | • **Total de Commits:** Exibidos nos cards acima <br>• **Datas e Frequência:** Atualizado em tempo real pelo GitHub <br>• **Tema:** Tokyo Night 🌙 |
 
 <picture align="center">
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-contribution-grid-snake-dark.svg">
 
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-contribution-grid-snake.svg">
 
 </picture> 
