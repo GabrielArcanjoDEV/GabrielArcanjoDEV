@@ -94,31 +94,7 @@ Olá Me chamo Gabriel Arcanjo Evangelista Diniz, tenho 20 anos e sou natural de 
 <tr>
 
 <td width="50%" align="center">
-
-### 📊 Estatísticas do GitHub
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjoDEV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  height="180"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-### 💻 Tecnologias
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjoDEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  height="180"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+  
 <picture align="center">
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielArcanjoDEV/GabrielArcanjoDEV/output/github-contribution-grid-snake-dark.svg">
